@@ -17,10 +17,6 @@ jobs:
         include:
           - platform: wiiu
             ext: wuhb
-          - platform: switch
-            ext: nro
-          # - platform: 3ds
-          #   ext: 3dsx
           - platform: wii
             ext: dol
     container:
